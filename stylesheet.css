@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tamil069';
+    src: url('Tamil069.woff2') format('woff2'),
+        url('Tamil069.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
