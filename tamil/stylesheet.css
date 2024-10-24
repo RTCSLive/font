@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TAMIL-UNI004';
+    src: url('TAMIL-UNI004.woff2') format('woff2'),
+        url('TAMIL-UNI004.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
